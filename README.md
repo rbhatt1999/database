@@ -25,6 +25,7 @@
 # 📖 SQL DATABASE <a name="about-project"></a>
 
 **DATABASE** is a practice repository.
+![image](https://user-images.githubusercontent.com/112093825/221806876-5f92188c-0b8e-4d6a-b021-22ff949fc503.png)
 
 ## 🛠 Built With <a name="built-with"></a>
 
